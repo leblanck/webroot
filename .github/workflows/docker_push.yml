@@ -1,1 +1,5 @@
 name: Puslish Image on Release
+
+on:
+  release:
+    types: [published]
