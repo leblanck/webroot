@@ -141,9 +141,9 @@ const defaultConfig = {
 					icon: "mdi:digital-ocean"
 				},
 				{
-					name: "Temp",
-					url: "",
-					icon: "simple-icons:portainer"
+					name: "Netlify",
+					url: "https://www.netlify.com",
+					icon: "teenyicons:netlify-solid"
 				},
 				{
 					name: "Stack Overflow",
