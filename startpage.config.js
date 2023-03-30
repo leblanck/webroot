@@ -105,7 +105,7 @@ const defaultConfig = {
 			links: [
 				{
 					name: "Portfolio",
-					url: "https://cancellek.com",
+					url: "https://leblanc.sh",
 					icon: "mdi:web"
 				},
 				{
@@ -119,9 +119,9 @@ const defaultConfig = {
 					icon: "simple-icons:openai"
 				},
 				{
-					name: "OCI",
-					url: "https://www.oracle.com/cloud/",
-					icon: "simple-icons:oracle"
+					name: "Mail",
+					url: "https://mail.google.com",
+					icon: "tabler:brand-gmail"
 				}
 			]
 		},
@@ -136,14 +136,14 @@ const defaultConfig = {
 					icon: "mdi:github"
 				},
 				{
-					name: "GitLab",
-					url: "https://gitlab.com",
-					icon: "ph:gitlab-logo-simple-fill"
+					name: "DigitalOcean",
+					url: "https://www.digitalocean.com",
+					icon: "mdi:digital-ocean"
 				},
 				{
-					name: "Dev.to",
-					url: "https://dev.to",
-					icon: "material-symbols:logo-dev"
+					name: "Portainer",
+					url: "",
+					icon: "simple-icons:portainer"
 				},
 				{
 					name: "Stack Overflow",
@@ -244,9 +244,9 @@ const defaultConfig = {
 					icon: "game-icons:techno-heart"
 				},
 				{
-					name: "Verge",
-					url: "https://www.theverge.com/",
-					icon: "arcticons:verge"
+					name: "NewStack",
+					url: "https://thenewstack.io",
+					icon: "bi:stack"
 				},
 				{
 					name: "It's Foss",
