@@ -136,12 +136,12 @@ const defaultConfig = {
 					icon: "mdi:github"
 				},
 				{
-					name: "DigitalOcean",
+					name: "Temp",
 					url: "https://www.digitalocean.com",
 					icon: "mdi:digital-ocean"
 				},
 				{
-					name: "Portainer",
+					name: "Temp",
 					url: "",
 					icon: "simple-icons:portainer"
 				},
@@ -207,23 +207,23 @@ const defaultConfig = {
 			]
 		},
 		{
-			title: "Science",
+			title: "Infra",
 			color: "blue",
 			align: "left",
 			links: [
 				{
-					name: "PopSci",
-					url: "https://popsci.com/",
-					icon: "material-symbols:science"
+					name: "Portainer",
+					url: "",
+					icon: "simple-icons:portainer"
 				},
 				{
-					name: "Space",
-					url: "fa6-solid:user-astronaut",
-					icon: "mdi:reddit"
+					name: "DigitalOcean",
+					url: "https://www.digitalocean.com",
+					icon: "mdi:digital-ocean"
 				},
 				{
-					name: "NASA",
-					url: "https://blogs.nasa.gov/",
+					name: "CasaOS",
+					url: "iconoir:mac-os-window",
 					icon: "simple-icons:nasa"
 				},
 				{
@@ -244,7 +244,7 @@ const defaultConfig = {
 					icon: "game-icons:techno-heart"
 				},
 				{
-					name: "NewStack",
+					name: "The NewStack",
 					url: "https://thenewstack.io",
 					icon: "bi:stack"
 				},
