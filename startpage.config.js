@@ -114,9 +114,9 @@ const defaultConfig = {
 					icon: "fa-brands:keybase"
 				},
 				{
-					name: "GPT",
-					url: "https://chat.openai.com/",
-					icon: "simple-icons:openai"
+					name: "Raindrop",
+					url: "https://app.raindrop.io/my/0/",
+					icon: "arcticons:raindrop"
 				},
 				{
 					name: "Mail",
@@ -137,7 +137,7 @@ const defaultConfig = {
 				},
 				{
 					name: "Temp",
-					url: "https://www.digitalocean.com",
+					url: "",
 					icon: "mdi:digital-ocean"
 				},
 				{
@@ -163,18 +163,18 @@ const defaultConfig = {
 					icon: "mdi:twitter"
 				},
 				{
-					name: "Mastodon",
-					url: "https://mastodon.social/",
-					icon: "ri:mastodon-fill"
-				},
-				{
 					name: "Reddit",
 					url: "https://reddit.com",
 					icon: "mdi:reddit"
 				},
 				{
-					name: "Polywork",
-					url: "https://polywork.com",
+					name: "TEMP",
+					url: "",
+					icon: "mdi:reddit"
+				},
+				{
+					name: "TEMP",
+					url: "",
 					icon: "simple-icons:polywork"
 				}
 			]
@@ -223,12 +223,12 @@ const defaultConfig = {
 				},
 				{
 					name: "CasaOS",
-					url: "iconoir:mac-os-window",
-					icon: "simple-icons:nasa"
+					url: "",
+					icon: "iconoir:mac-os-window"
 				},
 				{
-					name: "ESA",
-					url: "https://blogs.esa.int/",
+					name: "TEMP",
+					url: "",
 					icon: "mdi:black-mesa"
 				}
 			]
@@ -249,14 +249,14 @@ const defaultConfig = {
 					icon: "bi:stack"
 				},
 				{
-					name: "It's Foss",
-					url: "https://itsfoss.com/",
+					name: "TEMP",
+					url: "",
 					icon: "ri:mastodon-fill"
 				},
 				{
-					name: "9To5 Linux",
-					url: "https://9to5linux.com/",
-					icon: "uil:linux"
+					name: "GPT",
+					url: "https://chat.openai.com/",
+					icon: "simple-icons:openai"
 				}
 			]
 		}
