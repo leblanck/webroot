@@ -213,7 +213,7 @@ const defaultConfig = {
 			links: [
 				{
 					name: "Portainer",
-					url: "",
+					url: "https://portainer.leblanc.wtf/",
 					icon: "simple-icons:portainer"
 				},
 				{
@@ -222,8 +222,8 @@ const defaultConfig = {
 					icon: "mdi:digital-ocean"
 				},
 				{
-					name: "CasaOS",
-					url: "",
+					name: "Uptime",
+					url: "http://status.leblanc.wtf",
 					icon: "iconoir:mac-os-window"
 				},
 				{
