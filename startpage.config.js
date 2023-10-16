@@ -223,7 +223,7 @@ const defaultConfig = {
 				},
 				{
 					name: "Uptime",
-					url: "http://status.leblanc.wtf",
+					url: "https://status.leblanc.wtf",
 					icon: "iconoir:mac-os-window"
 				},
 				{
