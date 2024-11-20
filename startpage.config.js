@@ -169,12 +169,12 @@ const defaultConfig = {
 				},
 				{
 					name: "Youtube",
-					url: "",
+					url: "https://www.youtube.com",
 					icon: "mdi:youtube"
 				},
 				{
 					name: "Facebook",
-					url: "",
+					url: "https://www.facebook.com",
 					icon: "mdi:facebook"
 				}
 			]
