@@ -168,14 +168,14 @@ const defaultConfig = {
 					icon: "mdi:reddit"
 				},
 				{
-					name: "TEMP",
+					name: "Youtube",
 					url: "",
-					icon: "mdi:reddit"
+					icon: "mdi:youtube"
 				},
 				{
-					name: "TEMP",
+					name: "Facebook",
 					url: "",
-					icon: "simple-icons:polywork"
+					icon: "mdi:facebook"
 				}
 			]
 		},
@@ -185,14 +185,14 @@ const defaultConfig = {
 			align: "left",
 			links: [
 				{
-					name: "Polygon",
-					url: "https://polygon.com",
-					icon: "uil:polygon"
+					name: "WoW",
+					url: "https://worldofwarcraft.blizzard.com/en-us/",
+					icon: "file-icons:warcraft-iii"
 				},
 				{
-					name: "IGN",
-					url: "https://ign.com",
-					icon: "mdi:currency-sign"
+					name: "WoWHead",
+					url: "https://www.wowhead.com/wow/retail",
+					icon: "ph:sword-thin"
 				},
 				{
 					name: "RPS",
@@ -227,9 +227,9 @@ const defaultConfig = {
 					icon: "iconoir:mac-os-window"
 				},
 				{
-					name: "TEMP",
-					url: "",
-					icon: "mdi:black-mesa"
+					name: "Jellyfin",
+					url: "https://jelly.leblanc.wtf/",
+					icon: "cbi:jellyfin"
 				}
 			]
 		},
