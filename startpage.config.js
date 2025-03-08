@@ -193,12 +193,12 @@ const defaultConfig = {
         },
         {
           name: "Moxfield",
-          url: "https://www.wowhead.com/wow/retail",
+          url: "https://moxfield.com",
           icon: "streamline:cards",
         },
         {
           name: "Card Kingdom",
-          url: "https://rockpapershotgun.com/",
+          url: "https://blog.cardkingdom.com",
           icon: "tdesign:castle",
         },
         {
