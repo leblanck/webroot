@@ -138,9 +138,9 @@ const defaultConfig = {
           icon: "mdi:github",
         },
         {
-          name: "Temp",
-          url: "",
-          icon: "mdi:digital-ocean",
+          name: "Excalidraw",
+          url: "https://excalidraw.com",
+          icon: "simple-icons:excalidraw",
         },
         {
           name: "Netlify",
@@ -197,9 +197,9 @@ const defaultConfig = {
           icon: "streamline:cards",
         },
         {
-          name: "Card Kingdom",
-          url: "https://blog.cardkingdom.com",
-          icon: "tdesign:castle",
+          name: "Xbox",
+          url: "https://www.xbox.com/en-US/play",
+          icon: "lineicons:xboxe",
         },
         {
           name: "DnD Beyond",
