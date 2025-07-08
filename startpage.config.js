@@ -111,9 +111,9 @@ const defaultConfig = {
           icon: "mdi:web",
         },
         {
-          name: "Keybase",
-          url: "https://keybase.io/",
-          icon: "fa-brands:keybase",
+          name: "Calendar",
+          url: "https://calendar.google.com/",
+          icon: "ion:calendar-outline",
         },
         {
           name: "Raindrop",
@@ -199,7 +199,7 @@ const defaultConfig = {
         {
           name: "Xbox",
           url: "https://www.xbox.com/en-US/play",
-          icon: "lineicons:xboxe",
+          icon: "bi:xbox",
         },
         {
           name: "DnD Beyond",
