@@ -256,9 +256,9 @@ const defaultConfig = {
           icon: "ri:mastodon-fill",
         },
         {
-          name: "GPT",
-          url: "https://chat.openai.com/",
-          icon: "simple-icons:openai",
+          name: "Claude",
+          url: "https://claude.ai/new",
+          icon: "simple-icons:claude",
         },
       ],
     },
