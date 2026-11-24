@@ -214,9 +214,9 @@ const defaultConfig = {
       align: "left",
       links: [
         {
-          name: "Portainer",
-          url: "https://portainer.leblanc.wtf/",
-          icon: "simple-icons:portainer",
+          name: "Hub",
+          url: "https://hub.leblanc.sh/",
+          icon: "ic:twotone-hub",
         },
         {
           name: "DigitalOcean",
@@ -224,14 +224,14 @@ const defaultConfig = {
           icon: "mdi:digital-ocean",
         },
         {
-          name: "Uptime",
-          url: "https://status.leblanc.wtf",
+          name: "...",
+          url: "",
           icon: "iconoir:mac-os-window",
         },
         {
-          name: "Jellyfin",
+          name: "Tailscale",
           url: "https://jelly.leblanc.wtf/",
-          icon: "cbi:jellyfin",
+          icon: "thesvg:tailscale",
         },
       ],
     },
